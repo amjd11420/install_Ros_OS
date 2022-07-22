@@ -1,0 +1,25 @@
+install vircual box 
+from https://www.virtualbox.org/wiki/Downl...
+select windows virsion
+
+dawnload Ubuntu 16.04
+from https://releases.ubuntu.com/16.04/
+dawnload 64 bit virsion 
+
+run vircual box 
+click on new button to creat new device 
+complete configuration steps
+new device created and run
+click on start button
+select Ubuntu file
+start install Ubuntu
+install Ubuntu started
+complete installation steps
+Ubuntu installed 
+run Ubuntu 
+
+to install Ros OS
+go to https://s-m.com.sa/ros.txt
+copy firs line of command and paste it the Ubuntu terminal and click inter
+copy other commands one by one and paste it in Ubuntu terminal 
+copy source of bash setup path and paste it in the terminal
